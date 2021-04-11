@@ -1,0 +1,11 @@
+flask
+uwsgi
+sqlalchemy
+flask-restful
+flask-sqlalchemy
+sqlalchemy_utils
+flask-migrate
+pymysql
+flask_marshmallow
+marshmallow-sqlalchemy
+jsonify
